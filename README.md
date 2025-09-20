@@ -1,3 +1,7 @@
+## 📸 Preview
+
+<img width="1902" height="897" alt="image" src="https://github.com/user-attachments/assets/f9a6a742-fd86-485c-8af4-7ba5f06d2a1b" />
+
 # 📂 Modern Document Uploader
 
 A modern, interactive document uploader built with **React**, **Framer Motion**, and **TailwindCSS**.  
@@ -45,10 +49,4 @@ Now open 👉 [http://localhost:5173](http://localhost:5173) in your browser.
 * **TailwindCSS**
 * **Framer Motion**
 * **React Icons**
-
----
-
-## 📸 Preview
-
-<img width="1902" height="897" alt="image" src="https://github.com/user-attachments/assets/f9a6a742-fd86-485c-8af4-7ba5f06d2a1b" />
 
