@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📂 Modern Document Uploader
 
 A modern, interactive document uploader built with **React**, **Framer Motion**, and **TailwindCSS**.  
